@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\bin\Debug\Patient.BusinessLayer.dll
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\bin\Debug\Patient.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
+C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb
