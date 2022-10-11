@@ -4,3 +4,7 @@ C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.Bus
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb
+C:\Users\Admin\Source\Repos\PETZEY\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\PETZEY\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\PETZEY\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
+C:\Users\Admin\Source\Repos\PETZEY\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb

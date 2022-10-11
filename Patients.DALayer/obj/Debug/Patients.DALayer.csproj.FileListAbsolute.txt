@@ -10,3 +10,7 @@ C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.CopyComplete
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.dll
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.pdb
+C:\Users\Admin\Source\Repos\PETZEY\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\PETZEY\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\PETZEY\Patients.DALayer\obj\Debug\Patients.DALayer.dll
+C:\Users\Admin\Source\Repos\PETZEY\Patients.DALayer\obj\Debug\Patients.DALayer.pdb
